@@ -1,0 +1,144 @@
+.wrapper{
+    width: 600px;
+}
+img{
+    vertical-align: bottom;
+}
+.cards{
+    margin: 0;
+    text-align: center;
+    color: #20b4bb;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.two-heading{
+    margin: 0;
+    text-align: center;
+    color: #bcbcbd;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.content{
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #86918c;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Arial";
+}
+.content b{
+    color: #e8a336;
+}
+.content a{
+    color: #fa5d26;
+}
+.content a,
+.content b{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.button{
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #fffff8;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Arial";
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #9f15a9;
+    border-radius: 3px;
+}
+.fon{
+    background-color: #0c131b;
+}
+.other-cards{
+    width: 150px;
+}
+.pre-order{
+    margin: 0;
+    text-align: center;
+    color: #20b4bb;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.twenty{
+    margin: 0;
+    text-align: center;
+    color: #9f15a9;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.shirt{
+    margin: 0;
+    text-align: center;
+    color: #bcbcbd;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.offer{
+    text-align: center;
+    color: #85908c;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.last-cards{
+    text-align: center;
+    color: #bcbcbd;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.last-cards-text{
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+.connection{
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.contacts{
+    font-size: 14px;
+    line-height: 22px;
+    color: #000;
+    font-family: "Arial";
+    text-align: center;
+}
+.contacts a{
+    font-size: 14px;
+    line-height: 22px;
+    color: #b25000;
+    font-family: "Arial";
+    font-weight: bold;
+    text-align: center;
+}
+.foot{
+    background-color: #ebd2aa;
+}
+.social{
+    color: #b25000;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Arial";
+    font-weight: bold;
+    text-decoration: none;
+}
+.networks{
+    text-align: center;
+}
